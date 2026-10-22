@@ -43,8 +43,6 @@
   font-weight: 550;
   line-height: 19px;
   cursor: pointer;
-  background-color: lightblue;
-  display: inline;
 }
 
 .video-author {
@@ -53,7 +51,6 @@
   margin-bottom: 3px;
   cursor: pointer;
   display: inline-block;
-  background-color: lightcoral;
 }
 
 .video-stats {
